@@ -1,0 +1,12 @@
+=====>>>>>>why we should use oops
+
+
+1.	it makes development and maintenance easier where as in procedure-oriented
+	programming language it is not easy to manage if code grows as project 
+	size grows.
+
+2.	it provides data hiding whereas in procedure-oriented programming language a global
+	data can be accessed from anywhere.
+
+3.	program will also be simple if we use concept of oops because we dont have to write 
+	the same code repeatedly because oops provide concept of inheritance.
