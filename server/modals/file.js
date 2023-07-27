@@ -2,16 +2,15 @@ import mongoose from 'mongoose' ;
 
 const fileschema = new mongoose.Schema({ 
      path: {
-        type: String,
-        required: true
+        type: String
+        
      },
      name: {
-        type: String,
-        required: true
+        type: String
      },
      downloadContent: {
         type: Number,
-        required: true,
+       
         default: 0
      }
 })
